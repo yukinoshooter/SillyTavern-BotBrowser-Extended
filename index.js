@@ -88,7 +88,7 @@ import {
 } from './modules/services/authManager.js';
 
 // Extension version (from manifest.json)
-const EXTENSION_VERSION = '2.0.1';
+const EXTENSION_VERSION = '2.0.2';
 
 // Extension name and settings
 const extensionName = 'BotBrowser';
