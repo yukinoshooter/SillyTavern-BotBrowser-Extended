@@ -16,6 +16,8 @@ https://github.com/mia13165/SillyTavern-BotBrowser
 
 Click the bot icon next to the import bots button.
 
+![Bot Browser Icon](images/bot_icon.jpg)
+
 Bot Browser now opens in standalone mode by default.
 
 - Use `Hide` if you want to tuck it out of the way without losing your place
