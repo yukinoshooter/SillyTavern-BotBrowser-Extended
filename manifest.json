@@ -1,12 +1,12 @@
 {
-    "display_name": "Bot Browser",
+    "display_name": "Bot Browser Extended",
     "loading_order": 100,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
-    "author": "mia13165",
+    "author": "yukino",
     "version": "2.0.2",
-    "homePage": "https://github.com/mia13165/SillyTavern-BotBrowser",
+    "homePage": "https://github.com/yukinoshooter/SillyTavern-BotBrowser",
     "description": ""
 }
